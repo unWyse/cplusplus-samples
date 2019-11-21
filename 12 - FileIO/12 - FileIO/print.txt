@@ -1,0 +1,3 @@
+ID Num    Last Name       First Name        Age
+1         whitman         walter             13
+6         abooboo         prince             27
